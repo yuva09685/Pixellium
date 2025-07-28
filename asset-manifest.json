@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pixellium/static/css/main.9f4cb0b3.css",
+    "main.js": "/Pixellium/static/js/main.8a6fbd39.js",
+    "index.html": "/Pixellium/index.html",
+    "main.9f4cb0b3.css.map": "/Pixellium/static/css/main.9f4cb0b3.css.map",
+    "main.8a6fbd39.js.map": "/Pixellium/static/js/main.8a6fbd39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f4cb0b3.css",
+    "static/js/main.8a6fbd39.js"
+  ]
+}
