@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.9f4cb0b3.css",
-    "main.js": "/static/js/main.8a6fbd39.js",
-    "index.html": "/index.html",
-    "main.9f4cb0b3.css.map": "/static/css/main.9f4cb0b3.css.map",
-    "main.8a6fbd39.js.map": "/static/js/main.8a6fbd39.js.map"
+    "main.css": "/Pixellium/static/css/main.9f4cb0b3.css",
+    "main.js": "/Pixellium/static/js/main.8a6fbd39.js",
+    "index.html": "/Pixellium/index.html",
+    "main.9f4cb0b3.css.map": "/Pixellium/static/css/main.9f4cb0b3.css.map",
+    "main.8a6fbd39.js.map": "/Pixellium/static/js/main.8a6fbd39.js.map"
   },
   "entrypoints": [
     "static/css/main.9f4cb0b3.css",
