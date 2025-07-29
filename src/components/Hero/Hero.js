@@ -28,7 +28,7 @@ const Hero = () => {
               <p className="hero-subtitle">
                 We craft digital experiences that drive results. From strategy to execution, we're your partner in digital success.
               </p>
-              <div className="d-flex gap-3">
+              <div className="d-flex gap-3 justify-content-center flex-wrap button-group">
                 <Button variant="primary" onClick={handleGetStarted}>
                   Get Started
                 </Button>
